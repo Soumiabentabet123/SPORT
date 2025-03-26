@@ -1,5 +1,5 @@
-// src/api.js
 import axios from 'axios';
+
 
 // Base URL for backend
 const API_URL = 'http://localhost:5000/competitions';
